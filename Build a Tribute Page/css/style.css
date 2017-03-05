@@ -1,0 +1,55 @@
+#out{
+  padding-top: 2cm;
+  padding-width: 5cm ;
+  padding-right:2cm;
+  padding-left: 2cm;
+}
+#grey-wall{
+  width : 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.large-image{
+  width: 800px;
+  display: block;  
+}
+.album-img{
+  width: 80px;
+ margin: 10px;
+  
+}
+.center-pad {
+    margin: auto;
+    width: 800px;
+    padding: 10px;   
+}
+.caption{
+  text-align: center;
+}
+
+.small-caption{
+  margin-top: -10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+  font-family: "Georgia";
+  font-size: 10px;
+  color: grey;
+}
+
+.main-section{
+    margin: auto;
+  margin-top: 20px;
+    width: 700px;
+    padding: 20px;   
+}
+
+li{
+  font-size: 16px;
+}
+ .quote-box {
+    background-color: white;
+   border-radius: 8px;
+    padding: 20px;
+  }
