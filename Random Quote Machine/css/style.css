@@ -1,0 +1,49 @@
+#out{
+ 
+}
+button:focus {outline:0;}
+
+.quote-box {
+  border-radius:7px;
+  white-space: pre-line;
+  margin:60px auto auto auto;
+  width: 600px;
+  max-width: 700px;
+  padding:40px 50px;
+  display:block;
+  table-layout: fixed;
+  box-shadow: 0 4px 40px 0 rgba(0, 0, 0, 0), 0 4px 60px rgba(0, 0, 0, 0.15);
+}
+
+
+  .quote-body{
+    margin: auto 40px auto 40px;
+    word-wrap: break-word;
+    
+  }
+
+#quote-author{
+  text-align: right;
+  font-style: italic;
+  font-size: 15px;
+  
+}
+.button1{
+  background-color: white;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 3px;
+  padding: 10px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0px 0px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button1:hover{ 
+ 
+  
+}
